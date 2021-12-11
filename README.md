@@ -25,6 +25,6 @@ Versión inicial 1.0
 - El programa no guarda la contraseña en ningun archivo, tampoco en ninguna variable auxiliar y después de utilizarla directamente del objeto 
 textArea se elimina la información de su texto para impedir en la medida de lo posible ataques de volcado de memoria.
 - La carpeta que se utiliza para almacenar información y descargar los archivos es consultada por la variable de entorno [Application.UserAppDataPath]
-[C:\Users\**USER**\AppData\Roaming\Triaje]
+[C:\Users\ **USER** \AppData\Roaming\Triaje]
 
 ![Ejemplo](https://user-images.githubusercontent.com/6060930/145686677-69084787-e8db-48a6-af61-e2f008ad9070.PNG)
