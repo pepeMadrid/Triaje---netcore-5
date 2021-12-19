@@ -8,9 +8,11 @@ Versión inicial 1.0
 - Añade uno a uno los archivos a comprobar que necesites
 - Al añadir un archivo se añadira al host y se descargara por SFTP a la carpeta pertinente
 - Al indicar [Check] el programa descargara otra version actual del archivo y comprobara si son iguales generando el SHA-512
+[*] Actualización [19-12-2021]
+- Añadir/Modificar/Eliminar *Pools* de archivos para poder añadirlos a cualquier host en un solo click
 
 [*] Actualizaciones pendientes
-- Añadir y poder modificar un *Pool* de archivos para poder añadirlos a cualquier host en un solo click
+- Revisar fallos del programa por mala intrusión de texto del usuario y otros errores de la app
 - Conexion de SSH por clave publica
 - .
 - .
@@ -28,3 +30,4 @@ textArea se elimina la información de su texto para impedir en la medida de lo 
 [C:\Users\ **USER** \AppData\Roaming\Triaje]
 
 ![Ejemplo](https://user-images.githubusercontent.com/6060930/145686677-69084787-e8db-48a6-af61-e2f008ad9070.PNG)
+![Captura](https://user-images.githubusercontent.com/6060930/146690176-f37fa420-4d58-44ea-b91e-8de3376e4ad8.PNG)
