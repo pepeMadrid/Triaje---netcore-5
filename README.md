@@ -10,7 +10,7 @@ Versión inicial 1.0
 - Al indicar [Check] el programa descargara otra version actual del archivo y comprobara si son iguales generando el SHA-512
 
 [*] Actualizaciones pendientes
-- Añadir y poder modificar un pull de archivos para poder añadirlos a cualquier host en un solo click
+- Añadir y poder modificar un *Pool* de archivos para poder añadirlos a cualquier host en un solo click
 - Conexion de SSH por clave publica
 - .
 - .
