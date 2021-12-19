@@ -8,6 +8,7 @@ Versión inicial 1.0
 - Añade uno a uno los archivos a comprobar que necesites
 - Al añadir un archivo se añadira al host y se descargara por SFTP a la carpeta pertinente
 - Al indicar [Check] el programa descargara otra version actual del archivo y comprobara si son iguales generando el SHA-512
+
 [*] Actualización [19-12-2021]
 - Añadir/Modificar/Eliminar *Pools* de archivos para poder añadirlos a cualquier host en un solo click
 
