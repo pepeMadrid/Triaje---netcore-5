@@ -1,4 +1,5 @@
 # Triaje---netcore-5
+[Verificador de integridad para archivos]
 Triaje y comparador de hashes creado en c# y .net 5
 
 Versión inicial 1.0
